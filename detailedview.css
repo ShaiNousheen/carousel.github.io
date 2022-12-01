@@ -1,0 +1,18 @@
+.bgimg {
+    background-image: url("https://img.freepik.com/premium-vector/realistic-polygonal-background_52683-59886.jpg?w=1060");
+    background-size: cover;
+    height: 100vh;
+}
+.headfirst {
+    color :black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 600px;
+    padding: 25px;
+}
+.bgcardcarousel {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 25px;
+}
